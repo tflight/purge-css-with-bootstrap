@@ -1,5 +1,7 @@
 # PurgeCSS with Bootstrap
 
+Creates a Safelist for PurgeCSS with classes added by Bootstrap 4's Javascript.
+
 ## Getting Started
 
 #### Installation
