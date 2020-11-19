@@ -1,6 +1,6 @@
 # PurgeCSS with Bootstrap
 
-Creates a Safelist for PurgeCSS with classes added by Bootstrap 4's Javascript.
+Creates a Safelist for PurgeCSS with classes added by Bootstrap 4's Javascript. Extracted from js files by `var CLASS_NAME_[A-Z+].*`
 
 ## Getting Started
 
