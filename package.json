@@ -1,0 +1,33 @@
+
+{
+  "name": "purgecss-with-bootstrap",
+  "version": "0.0.1",
+  "description": "PurgeCSS with bootstrap",
+  "author": "tflight",
+  "homepage": "https://github.com/tflight/purgecss-with-bootstrap",
+  "keywords": [
+    "bootstrap",
+    "optimize",
+    "optimization",
+    "remove",
+    "unused",
+    "css",
+    "html",
+    "rules",
+    "purge",
+    "uncss",
+    "purify"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tflight/purgecss-with-bootstrap.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tflight/purgecss-with-bootstrap/issues"
+  }
+}
